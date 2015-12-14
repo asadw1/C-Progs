@@ -12,6 +12,8 @@ Learning Resources:
 
 PPM Docs: http://netpbm.sourceforge.net/doc/ppm.html  
 Mandlebrot Wiki: https://en.wikipedia.org/wiki/Mandelbrot_set
+
+
 Fractal galleries: https://www.fractalus.com/
 
 
