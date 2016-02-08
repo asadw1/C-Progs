@@ -1,8 +1,9 @@
 // Asad Waheed
 // File: main.cpp
 // Description: Program entry point
-// Compile: g++ -o main main.cpp
-// Run: ./main
+// Compile: make
+// Run: make run
+// Clear: make clear
 
 #include <iostream>
 #include "quicksort.h"
