@@ -9,9 +9,9 @@
 
 class QuickSort
 {
-	//	Will add private methods later on
+	// Will add private methods later on
 	public:
-		QuickSort();	//	default constructor by convention
+		QuickSort();	// default constructor by convention
 		void quickSort(int array[], int leftSide, int rightSide);
 }
 
