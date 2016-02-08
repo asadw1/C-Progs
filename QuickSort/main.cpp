@@ -11,6 +11,9 @@ using namespace std;
 
 int main()
 {
-	// code here
+	// Test data
+	int testArray[]={29,54,16,0,73,17,86,94};
+	int left = 0, right = testArray[7];
+	// Declaring an object
 	return 0;
 }
