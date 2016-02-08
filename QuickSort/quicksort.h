@@ -12,6 +12,6 @@ class QuickSort
 	// Will add private methods later on
 	public:
 		void quickSort(int array[], int leftSide, int rightSide);
-}
+};
 
 #endif
