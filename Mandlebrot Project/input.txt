@@ -1,0 +1,6 @@
+1024 1024 255 -1.5 0.7 -1.0 1.0
+
+image Width, image Height
+maximum value of N in z_n (mandlebrot formula)
+minReal, maxReal
+minImaginary, maxImaginary.
