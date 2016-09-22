@@ -9,4 +9,4 @@ I'll be periodically adding programs throughout the semester.
 
 Upcoming Programs:
 
-[] QuickSort with Generics
+[ ] QuickSort with Generics
